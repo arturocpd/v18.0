@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Analytics Cloud Integration User</members>
-        <name>Profile</name>
+        <members>AppleWatch</members>
+        <members>AppleWatchTest</members>
+        <members>AppleWatchV2</members>
+        <members>AppleWatch_TestClass</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
+        <members>CommunitiesSelfRegConfirmController</members>
+        <members>CommunitiesSelfRegConfirmControllerTest</members>
+        <members>CommunitiesSelfRegController</members>
+        <members>CommunitiesSelfRegControllerTest</members>
+        <members>CopadoBookController</members>
+        <members>CopadoBookControllerTest</members>
+        <members>Delete_me</members>
+        <members>Delete_me2</members>
+        <members>Delete_me3</members>
+        <members>DoNotUseAppleWatch</members>
+        <members>DoNotUseAppleWatchTest</members>
+        <members>Flow_LevelTest</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>LightningForgotPasswordController</members>
+        <members>LightningForgotPasswordControllerTest</members>
+        <members>LightningLoginFormController</members>
+        <members>LightningLoginFormControllerTest</members>
+        <members>LightningSelfRegisterController</members>
+        <members>LightningSelfRegisterControllerTest</members>
+        <members>MyContactListController</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
+        <members>NewClass</members>
+        <members>SayHi</members>
+        <members>SayHiTest</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>Update_Opp_on_CreationTest</members>
+        <name>ApexClass</name>
     </types>
     <version>53.0</version>
 </Package>

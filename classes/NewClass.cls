@@ -1,4 +1,4 @@
-Public with sharing Class AppleWatch{
+Public with sharing Class NewClass{
  Public Static void appleWatchmethod(list<Opportunity> lopt ){
     for (Opportunity opp : lopt) {
         Task t        = new Task();
@@ -8,7 +8,7 @@ Public with sharing Class AppleWatch{
         t.WhatId      = opp.Id;
         insert t;
      /*Comment DDD change CS Code org*/
-     /*Comment Test on Dev1*/
+     /*Comment 6*/
    }
   }
  }
