@@ -6,8 +6,8 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Member__c-Member Layout</members>
-        <name>Layout</name>
+        <members>Custom Sales Rep</members>
+        <name>Profile</name>
     </types>
     <version>53.0</version>
 </Package>
