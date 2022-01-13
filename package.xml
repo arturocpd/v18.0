@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Test_3__c</members>
-        <name>CustomField</name>
+        <members>Validation__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Validation__c-Validation Layout</members>
+        <name>Layout</name>
     </types>
     <version>53.0</version>
 </Package>
