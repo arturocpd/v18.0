@@ -6,11 +6,6 @@
         <field>Member__c.Email__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Member__c.Membership__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
